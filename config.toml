@@ -65,11 +65,11 @@ enableGitInfo = false
   organizations = [ { name = "Oregon State University", url = "https://oregonstate.edu" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "ozgurozmen.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "ozmenmu@oregonstate.edu"
   address = "Kelley Engineering Center, Oregon State University, OR, 97331, USA"
   phone = "541 908 57 83"
-  skype = "echo123"
+#  skype = "m.ozgur.ozmen"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
