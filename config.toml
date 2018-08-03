@@ -69,7 +69,7 @@ enableGitInfo = false
   email = "ozmenmu@oregonstate.edu"
   address = "Kelley Engineering Center, Oregon State University, Corvallis, OR, 97331, USA"
   phone = "541 908 57 83"
-#  skype = "m.ozgur.ozmen"
+  skype = "m.ozgur.ozmen"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
