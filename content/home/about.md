@@ -20,7 +20,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Computer Science"
   institution = "Oregon State University"
-  year = Currently
+  year = 2021
 
 [[education.courses]]
   course = "MSc in Computer Science"
